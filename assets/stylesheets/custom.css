@@ -146,6 +146,11 @@ b{
         font-size: 13px;
     }
 }
+.carousel-inner>.item>a>img{
+    width: 100%;
+    display: block;
+    height: auto;
+}
 /* @media(max-width: 736px)
 {
 .jumbotron  {
